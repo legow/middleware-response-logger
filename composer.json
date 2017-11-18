@@ -1,0 +1,17 @@
+{
+    "name": "legow/middleware-response-logger",
+    "type": "library",
+    "description": "Middleware that logs PSR-7 resoponses",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Turcsán Ádám",
+            "email": "turcsan.adam@legow.hu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
